@@ -1,0 +1,12 @@
+#title{font-size: 72px}
+.box{background-color:orange}
+img{width:200px;
+  height:300px}
+  p {
+    color: red
+  }
+  address{color: blue}
+  body{
+    background-color: white;
+    background-image: url(http://www.britishcouncil.be/sites/default/files/styles/bc-landscape-630x354/public/professional_exams.jpg?itok=g-wwOcTP);
+  ;background-repeat: no-repeat;  background-size:cover;}
